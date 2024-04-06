@@ -6,9 +6,9 @@ let posicaoVertical; // y
 
 function setup() {
 
-createCanvas(800, 800);
+createCanvas(1000, 1000);
 
-background("white");
+background("green");
 
 cor = color(random(255), random(255), random(255));
 
